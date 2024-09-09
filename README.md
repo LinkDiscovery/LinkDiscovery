@@ -1,17 +1,18 @@
-
+<div align="center">
 ![header align="center"](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20Link%20Discovery&fontSize=90)
-
+</div>
 <h3 align="center">🌱 Project 🌱</h3>
 
 <div align="center">
   <a href="https://github.com/LinkDiscovery/HScodemapping_Project">
-    <img src="https://img.shields.io/badge/HScodemapping%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="HScodemapping Project" />
+    <img src="https://img.shields.io/badge/1.%20HScodemapping%20Project-blue?style=for-the-badge" alt="HScodemapping Project" />
   </a><br>
   
   <a href="https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main">
-    <img src="https://img.shields.io/badge/ModaMatch%20Fashion%20Recommendation%20System-181717?style=for-the-badge&logo=github&logoColor=white" alt="ModaMatch Fashion Recommendation System" />
+    <img src="https://img.shields.io/badge/2.%20ModaMatch%20Fashion%20Recommendation%20System-green?style=for-the-badge" alt="ModaMatch Fashion Recommendation System" />
   </a>
 </div>
+<br>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
