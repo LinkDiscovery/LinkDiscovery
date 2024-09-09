@@ -1,10 +1,10 @@
-<div align="center">
+
 ![header align="center"](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20Link%20Discovery&fontSize=90)
-</div>
+
 <h3 align="center">🌱 Project 🌱</h3>
 
 <div align="center">
-  <a href="https://github.com/LinkDiscovery/HScodemapping_Project">
+  <a href="https://github.com/LinkDiscovery">
     <img src="https://img.shields.io/badge/1.%20HScodemapping%20Project-blue?style=for-the-badge" alt="HScodemapping Project" />
   </a><br>
   
