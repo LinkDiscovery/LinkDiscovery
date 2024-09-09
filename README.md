@@ -6,9 +6,10 @@
 <h3 align="center">🌱 Project 🌱</h3>
 
 <div align="center">
-  <a href="[https://github.com/LinkDiscovery](https://github.com/LinkDiscovery/HScodeMappingProject)">
+  <a href="https://github.com/LinkDiscovery/HScodeMappingProject">
     <img src="https://img.shields.io/badge/1.%20HScodemapping%20Project-blue?style=for-the-badge" alt="HScodemapping Project" />
   </a><br>
+</div>
   
   <a href="https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main">
     <img src="https://img.shields.io/badge/2.%20ModaMatch%20Fashion%20Recommendation%20System-green?style=for-the-badge" alt="ModaMatch Fashion Recommendation System" />
