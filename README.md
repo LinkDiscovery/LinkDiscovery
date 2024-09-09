@@ -24,10 +24,9 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/tensorflow-3670A0?style=for-the-badge&logo=python&logoColor=FF6F00" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pytorch-150458.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />&nbsp
+  <img src="https://img.shields.io/badge/tensorflow-3670A0?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />&nbsp
+  <img src="https://img.shields.io/badge/scikitlearn-4d77cf.svg?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />&nbsp
 </div>
 <br>
 
