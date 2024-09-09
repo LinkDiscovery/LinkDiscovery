@@ -4,9 +4,14 @@
 <h3 align="center">🌱 Project 🌱</h3>
 
 <div align="center">
-  <a href="https://github.com/LinkDiscovery">HScodemapping Project</a><br>
-  <a href="https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main">ModaMatch Fashion Recommendation System</a>
-</div>  
+  <a href="https://github.com/LinkDiscovery/HScodemapping_Project">
+    <img src="https://img.shields.io/badge/HScodemapping%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="HScodemapping Project" />
+  </a><br>
+  
+  <a href="https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main">
+    <img src="https://img.shields.io/badge/ModaMatch%20Fashion%20Recommendation%20System-181717?style=for-the-badge&logo=github&logoColor=white" alt="ModaMatch Fashion Recommendation System" />
+  </a>
+</div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
