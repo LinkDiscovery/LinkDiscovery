@@ -34,7 +34,7 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/springboot-150458.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />&nbsp
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />&nbsp
   <img src="https://img.shields.io/badge/spring-3578E5?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp
   <img src="https://img.shields.io/badge/mysql%20Query-FF4154?style=for-the-badge&logo=mysql%20query&logoColor=4479A1" />&nbsp
 </div>
