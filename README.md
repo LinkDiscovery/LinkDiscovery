@@ -1,102 +1,51 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20Link%20Discovery&fontSize=90" alt="header align=center"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=220&section=header&text=Geonyeong%20Shin&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </div>
 
-<h3 align="center">🌱 Project 🌱</h3>
-
 <div align="center">
-  <a href="https://github.com/LinkDiscovery/HScodeMappingProject">
-    <img src="https://img.shields.io/badge/1.%20HScodemapping%20Project-blue?style=for-the-badge" alt="HScodemapping Project" />
-  </a><br>
-  
-  <a href="https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main">
-    <img src="https://img.shields.io/badge/2.%20ModaMatch%20Fashion%20Recommendation%20System-green?style=for-the-badge" alt="ModaMatch Fashion Recommendation System" />
+  <h3>🎓 Graduate Researcher · Data &amp; AI Researcher</h3>
+  <p>Pusan National University · Bigdata Analytics &amp; Engineering Lab (BAELab)</p>
+  <p><strong>Process Mining · AI Agent &amp; LLM · Industrial Optimization</strong></p>
+
+  <br>
+
+  <!-- Key Links Badges -->
+  <a href="https://linkdiscovery.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Personal_Portfolio-linkdiscovery.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-</div>
-<br>
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp;
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
-</div>
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-</div>
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/spring--boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
-</div>
-
-<div align="center">
-<!--   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp;
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp; -->
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp;
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-<!--   <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a> -->
-  <a href="mailto:shin920111@gmail.com">
-    <img
-      src="https://img.shields.io/badge/shin920111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="https://www.linkedin.com/in/skyhigh1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
+<br>
 
+### 🔬 Research Focus
+- **Process Mining**: 이벤트 로그 분석, 비즈니스/산업 공정 병목 진단 및 프로세스 적합도 검증(Conformance Checking)
+- **AI Agent & LLM**: 복잡한 산업 도메인 문제 해결을 위한 지능형 자율 추론 에이전트 및 RAG 파이프라인
+- **Industrial Optimization**: 수리모델링과 데이터 기반 머신러닝/딥러닝을 활용한 공정 효율화 및 최적화
 
+---
 
+### 🚀 Key Projects
+- **[부산민주공원 기록물 DB 구축](https://linkdiscovery.github.io/#projects)** — 역사 기록물 디지털 아카이빙 AI-OCR & 비정형 문서 키워드 분류
+- **[초거대 AI 확산 생태계 조성](https://linkdiscovery.github.io/#projects)** — 용접·용단 불티 비산 영상 데이터 라벨링 도구 개발 및 공정관리
+- **[ModaMatch](https://github.com/LinkDiscovery/ModaMatch-fashion_recommendation_system_project-/tree/main)** — 의류 이미지 기반 신상품 추천 시스템 (ResNet50 FC-Layer Vector + Cosine Similarity)
+- **[HScode Mapping](https://github.com/LinkDiscovery/HScodeMappingProject)** — 해외기업 영문 설명 기반 HS코드 추천 모델 (Word2Vec)
+- **[Dreaming Age Senior (다시)](https://linkdiscovery.github.io/#projects)** — 중장년 맞춤 일자리 추천 & EasyOCR 수기 이력서 자동 전산화 플랫폼
 
+---
 
-<!--
-**LinkDiscovery/LinkDiscovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</div>
